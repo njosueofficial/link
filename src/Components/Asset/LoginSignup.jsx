@@ -19,7 +19,7 @@ function LoginSignup() {
         <input type="text"  className='p-[7px] px-[30px] rounded-[5px] outline-none w-[100%]' placeholder='Password' />
        </div>
        <div className='userInput my-[10px]'>
-         <p>if you forgot password <span className='text-slate-400 cursor-pointer'>click here</span></p>
+         <p>if you forgot password <span className='text-slate-400 cursor-pointer'>go here</span></p>
        </div>
        <div className='flex flex-row justify-center userInput my-[5px] p-[10px]'>
 
